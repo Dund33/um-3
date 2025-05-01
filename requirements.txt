@@ -1,0 +1,7 @@
+ucimlrepo
+pandas
+matplotlib
+seaborn
+notebook
+scikit-learn
+imbalanced-learn
